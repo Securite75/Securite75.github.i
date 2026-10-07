@@ -1,12 +1,10 @@
-index.html
-
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mon site — En développement</title>
+
+    <title>SECURITY QUIZ</title>
 
     <style>
         * {
@@ -37,15 +35,15 @@ index.html
         }
 
         h1 {
-            font-size: 28px;
-            font-weight: 500;
-            letter-spacing: 1px;
+            font-size: 32px;
+            font-weight: 600;
+            letter-spacing: 2px;
         }
 
         p {
             margin-top: 10px;
             color: #888;
-            font-size: 15px;
+            font-size: 16px;
         }
 
         @keyframes rotation {
@@ -65,8 +63,8 @@ index.html
     <div class="container">
         <div class="gear">⚙️</div>
 
-        <h1>En développement</h1>
-        <p>Mon site arrive bientôt...</p>
+        <h1>SECURITY QUIZ</h1>
+        <p>En développement</p>
     </div>
 
 </body>
